@@ -40,8 +40,6 @@ simulate_rl_agent.m
 ![Performance Comparison of Curriculum vs Learning from scratch](code/Images/comparison_SAC_agents.png)
 
 
-```
-
 ## Contact Information
 Please feel free to contact me if any help needed
 
