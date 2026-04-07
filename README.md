@@ -28,8 +28,6 @@ funetuned.m
 
 # For inference
 simulate_rl_agent.m
-
-
 ```
 
 ## folder Structure
@@ -39,7 +37,7 @@ simulate_rl_agent.m
 
 
 #### Visualization of RL-SAC performance
-![Performance Comparison of Curriculum vs Learning from scratch](code/images/comparison_SAC_agents.png)
+![Performance Comparison of Curriculum vs Learning from scratch](code/Images/comparison_SAC_agents.png)
 
 
 ```
