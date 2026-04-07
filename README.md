@@ -8,7 +8,7 @@ Adaptive trajectory tracking of Omni-drive robots using Reinforcement learning
 ## Installation
 Run this command on command prompt to clone the repository:
 
-`git clone [https://github.com/love481/Omni-drive-robot-Simulation.git](https://github.com/love481/Tracking-RL.git)`
+`git clone https://github.com/love481/Tracking-RL.git`
 
 
 ## Usage
