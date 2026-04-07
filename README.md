@@ -18,7 +18,7 @@ startup.m
 ```
 
 Make sure to open the CoppeliaSim simulation environment before running below code.
-Use the following scripts for running the simulation:
+Use the following scripts for training and testing the RL agent on simulation environment:
 ```
 # For Training/first phase
 pretrained.m
